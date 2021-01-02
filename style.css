@@ -138,6 +138,6 @@ input[type="text"], input[type ="number"]{
     opacity: 0;/*先讓他隱藏，等碰到在出現*/
     /* transition: opacity .6s ease; */
 }
-.list li:hover .delete-btn{
+.list:hover .delete-btn{
     opacity: 1;
 }
